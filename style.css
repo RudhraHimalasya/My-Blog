@@ -1,0 +1,72 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.traveldiv {
+
+    padding: 5px;
+
+    border: 10px double grey;
+}
+
+.traveldiv img {
+
+    width: 100%;
+
+}
+
+.moviediv {
+
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.moviediv i {
+    float: right;
+}
+
+.moviep span {
+
+    color: gold;
+}
+
+#header {
+    
+    text-align: center;
+}
+
+.news_div {
+
+    margin-top: 20px;
+
+}
+
+#meme {
+    height: 500px;
+}
+
+#gtgt {
+    font-size: 20px;
+}
+
+#g {
+    height: 950px;
+    width:1200px;
+}
+.bookdiv img{
+    height: 300px;
+    width: 230px;
+}
